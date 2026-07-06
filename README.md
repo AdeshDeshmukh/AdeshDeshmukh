@@ -8,11 +8,10 @@ Open Source Contributor · Kubernetes · Cloud Native · DevOps
 ---
 
 <details>
-<summary><strong>Merged Pull Requests</strong> · 40 total — click to expand</summary>
+<summary><strong>Merged Pull Requests</strong> · 40 total</summary>
 
-<br>
-
-**kubestellar/console** — 26 PRs
+<details>
+<summary><strong>kubestellar/console</strong> — 26</summary>
 
 - [#18473](https://github.com/kubestellar/console/pull/18473) — `[sec-check] fix: add K8s name validation to non-MCP handler entry points`
 - [#18433](https://github.com/kubestellar/console/pull/18433) — `fix(ssrf): unify server_gitops and drasi_proxy with shared IsBlockedIP`
@@ -41,9 +40,10 @@ Open Source Contributor · Kubernetes · Cloud Native · DevOps
 - [#13024](https://github.com/kubestellar/console/pull/13024) — `fix(i18n): wrap Cancel and Reset labels in WorkloadMonitorDiagnose`
 - [#12984](https://github.com/kubestellar/console/pull/12984) — `fix(i18n): wire StatsConfig modal strings through translation layer`
 
----
+</details>
 
-**c2siorg/Webiu** — 6 PRs
+<details>
+<summary><strong>c2siorg/Webiu</strong> — 6</summary>
 
 - [#699](https://github.com/c2siorg/Webiu/pull/699) — `refactor(ui): extract duplicate getLanguageColor into shared constants`
 - [#697](https://github.com/c2siorg/Webiu/pull/697) — `fix(ui): correct getProfileUrl to return GitHub profile URL`
@@ -52,34 +52,56 @@ Open Source Contributor · Kubernetes · Cloud Native · DevOps
 - [#683](https://github.com/c2siorg/Webiu/pull/683) — `fix: Add missing Cache-Control headers to UserController GET endpoints`
 - [#682](https://github.com/c2siorg/Webiu/pull/682) — `fix(user): add error handling to UserService`
 
----
+</details>
 
-**kubernetes-sigs/kubespray**
+<details>
+<summary><strong>kubernetes-sigs/kubespray</strong> — 1</summary>
 
 - [#13350](https://github.com/kubernetes-sigs/kubespray/pull/13350) — `fix(tests): use kube_network_plugin in fedora43-flannel-crio test`
 
----
+</details>
 
-**kitops-ml/kitops**
+<details>
+<summary><strong>kitops-ml/kitops</strong> — 1</summary>
 
 - [#1220](https://github.com/kitops-ml/kitops/pull/1220) — `fix(dev-mode): use animationend for modal scroll lock`
 
----
+</details>
 
-**openkruise/rollouts**
+<details>
+<summary><strong>openkruise/rollouts</strong> — 1</summary>
 
 - [#333](https://github.com/openkruise/rollouts/pull/333) — `fix: upgrade golang.org/x/net to v0.26.0 for CVE-2023-39325`
 
----
+</details>
 
-**updatecli/updatecli**
+<details>
+<summary><strong>updatecli/updatecli</strong> — 1</summary>
 
 - [#7874](https://github.com/updatecli/updatecli/pull/7874) — `fix(file): don't output binary file content`
 
----
+</details>
 
-**firstcontributions/first-contributions**
+<details>
+<summary><strong>firstcontributions/first-contributions</strong> — 1</summary>
 
 - [#114204](https://github.com/firstcontributions/first-contributions/pull/114204) — `Add Adesh Deshmukh to Contributors list`
+
+</details>
+
+<details>
+<summary><strong>AdeshDeshmukh/openkruise.io</strong> — 1</summary>
+
+- [#1](https://github.com/AdeshDeshmukh/openkruise.io/pull/1) — `fix: replace os.system with _exec in version_struct_check.py`
+
+</details>
+
+<details>
+<summary><strong>AdeshDeshmukh/kubespray</strong> — 2</summary>
+
+- [#2](https://github.com/AdeshDeshmukh/kubespray/pull/2) — `feat: add concurrent downloads for component hash updates`
+- [#1](https://github.com/AdeshDeshmukh/kubespray/pull/1) — `feat: add download_file utility function`
+
+</details>
 
 </details>
