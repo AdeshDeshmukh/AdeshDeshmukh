@@ -45,18 +45,18 @@ A passionate open source contributor building tools for Kubernetes, observabilit
 |:---|---:|---:|
 | **kubestellar/console** | [![26](https://img.shields.io/badge/26-007ec6?logo=github)](https://github.com/kubestellar/console/pulls?q=is%3Apr+author%3AAdeshDeshmukh+is%3Amerged) | [![2](https://img.shields.io/badge/2-dc3545?logo=github)](https://github.com/kubestellar/console/issues?q=is%3Aissue+author%3AAdeshDeshmukh) |
 | **c2siorg/Webiu** | [![6](https://img.shields.io/badge/6-2491eb?logo=github)](https://github.com/c2siorg/Webiu/pulls?q=is%3Apr+author%3AAdeshDeshmukh+is%3Amerged) | [![4](https://img.shields.io/badge/4-dc3545?logo=github)](https://github.com/c2siorg/Webiu/issues?q=is%3Aissue+author%3AAdeshDeshmukh) |
-| **kubernetes-sigs/kubespray** | [![2](https://img.shields.io/badge/2-e3b341?logo=github)](https://github.com/kubernetes-sigs/kubespray/pulls?q=is%3Apr+author%3AAdeshDeshmukh+is%3Amerged) | [![8](https://img.shields.io/badge/8-dc3545?logo=github)](https://github.com/kubernetes-sigs/kubespray/issues?q=is%3Aissue+author%3AAdeshDeshmukh) |
+| **kubernetes-sigs/kubespray** | [![3](https://img.shields.io/badge/3-2ea44f?logo=github)](https://github.com/kubernetes-sigs/kubespray/pulls?q=is%3Apr+author%3AAdeshDeshmukh+is%3Amerged) | [![8](https://img.shields.io/badge/8-dc3545?logo=github)](https://github.com/kubernetes-sigs/kubespray/issues?q=is%3Aissue+author%3AAdeshDeshmukh) |
 | **goharbor/harbor-cli** | [![1](https://img.shields.io/badge/1-6e40c9?logo=github)](https://github.com/goharbor/harbor-cli/pulls?q=is%3Apr+author%3AAdeshDeshmukh+is%3Amerged) | [![5](https://img.shields.io/badge/5-dc3545?logo=github)](https://github.com/goharbor/harbor-cli/issues?q=is%3Aissue+author%3AAdeshDeshmukh) |
 | **kubeflow/trainer** | — | [![3](https://img.shields.io/badge/3-dc3545?logo=github)](https://github.com/kubeflow/trainer/issues?q=is%3Aissue+author%3AAdeshDeshmukh) |
 | **topoteretes/cognee** | — | [![3](https://img.shields.io/badge/3-dc3545?logo=github)](https://github.com/topoteretes/cognee/issues?q=is%3Aissue+author%3AAdeshDeshmukh) |
 | **kitops-ml/kitops** | [![1](https://img.shields.io/badge/1-6e40c9?logo=github)](https://github.com/kitops-ml/kitops/pulls?q=is%3Apr+author%3AAdeshDeshmukh+is%3Amerged) | — |
 | **openkruise/rollouts** | [![1](https://img.shields.io/badge/1-6e40c9?logo=github)](https://github.com/openkruise/rollouts/pulls?q=is%3Apr+author%3AAdeshDeshmukh+is%3Amerged) | — |
 | **updatecli/updatecli** | [![1](https://img.shields.io/badge/1-6e40c9?logo=github)](https://github.com/updatecli/updatecli/pulls?q=is%3Apr+author%3AAdeshDeshmukh+is%3Amerged) | — |
-| **volcano-sh/kthena** | — | [![2](https://img.shields.io/badge/2-dc3545?logo=github)](https://github.com/volcano-sh/kthena/issues?q=is%3Aissue+author%3AAdeshDeshmukh) |
+| **volcano-sh/kthena** | [![1](https://img.shields.io/badge/1-6e40c9?logo=github)](https://github.com/volcano-sh/kthena/pulls?q=is%3Apr+author%3AAdeshDeshmukh+is%3Amerged) | [![2](https://img.shields.io/badge/2-dc3545?logo=github)](https://github.com/volcano-sh/kthena/issues?q=is%3Aissue+author%3AAdeshDeshmukh) |
 | **container-registry/harbor-satellite** | — | [![1](https://img.shields.io/badge/1-dc3545?logo=github)](https://github.com/container-registry/harbor-satellite/issues?q=is%3Aissue+author%3AAdeshDeshmukh) |
 | **AdeshDeshmukh/openkruise.io** | [![1](https://img.shields.io/badge/1-6e40c9?logo=github)](https://github.com/AdeshDeshmukh/openkruise.io/pulls?q=is%3Apr+author%3AAdeshDeshmukh+is%3Amerged) | — |
 
-<p align="center"><strong>39 merged PRs</strong> + <strong>28 issues</strong> across <strong>12 repositories</strong></p>
+<p align="center"><strong>42 merged PRs</strong> + <strong>28 issues</strong> across <strong>12 repositories</strong></p>
 
 ---
 
