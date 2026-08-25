@@ -1,5 +1,21 @@
 <div align="center">
 
+<!-- Interactive Terminal Profile Banner -->
+<a href="https://github.com/AdeshDeshmukh">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="light.svg">
+    <img alt="Adesh Deshmukh Terminal Profile" src="dark.svg" width="100%">
+  </picture>
+</a>
+<br><br>
+
+<!-- Live Retro Space Defender Jet Heatmap -->
+<p align="center">
+  <img src="github-jet.svg" alt="Adesh Deshmukh Space Defender Heatmap" width="100%" />
+</p>
+<br>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&width=435&lines=Hi%2C+I+am+Adesh+Deshmukh;An+Open+Source+Contributor;Kubernetes+%26+Cloud+Native+Enthusiast;Backend+Developer;Contributing+to+CNCF+Projects" alt="Typing SVG" /></a>
 
 # Hi, I'm Adesh Deshmukh

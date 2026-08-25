@@ -1,0 +1,12 @@
+{
+  "name": "adeshdeshmukh-profile-dashboard",
+  "version": "1.0.0",
+  "description": "Generates live animated space-defender contribution heatmap SVG for Adesh Deshmukh",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "generate": "node generate.mjs"
+  }
+}
