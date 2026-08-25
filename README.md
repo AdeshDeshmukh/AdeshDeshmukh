@@ -20,42 +20,6 @@
 
 ---
 
-### 💻 `adesh@deshmukh-node-01:~$ neofetch --system-info`
-
-```text
-  ██████╗ ██████╗ ███████╗███████╗██╗  ██╗
- ██╔════╝██╔═══██╗██╔════╝██╔════╝██║  ██║   Adesh Deshmukh
- ██║     ██║   ██║███████╗█████╗  ███████║   ----------------------------------------
- ██║     ██║   ██║╚════██║██╔══╝  ██╔══██║   [OS]        Linux x86_64 / Cloud-Native Node
- ╚██████╗╚██████╔╝███████║███████╗██║  ██║   [Kernel]    Go 1.22+ / C++20 / Python 3.12
-  ╚═════╝ ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝   [Role]      Systems & Backend Engineer
-                                             [Focus]     Kubernetes, Observability, Tooling
-                                             [CNCF]      58+ Merged PRs across 12 Repos
-                                             [Status]    Active Contributor @ kubernetes-sigs
-```
-
----
-
-### 🏛️ Architectural Stack Layers
-
-```
- ┌─────────────────────────────────────────────────────────────────────────────────┐
- │ Layer 3: Application Services & Interfaces                                      │
- │ Python  ·  TypeScript  ·  JavaScript  ·  FastAPI  ·  REST APIs                   │
- ├─────────────────────────────────────────────────────────────────────────────────┤
- │ Layer 2: Observability & CI/CD Telemetry                                        │
- │ Prometheus  ·  Grafana  ·  GitHub Actions  ·  Git  ·  Linux Tracing             │
- ├─────────────────────────────────────────────────────────────────────────────────┤
- │ Layer 1: Orchestration & Control Planes                                         │
- │ Kubernetes  ·  Docker  ·  Helm  ·  Kubespray  ·  Harbor  ·  KubeStellar         │
- ├─────────────────────────────────────────────────────────────────────────────────┤
- │ Layer 0: Core Systems & Algorithmic Primitives                                  │
- │ Go (Golang)  ·  C++  ·  Linux Kernel Basics  ·  Algorithms & Data Structures    │
- └─────────────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
 ### 📜 Git Patch Series & Open Source Impact
 
 ```
