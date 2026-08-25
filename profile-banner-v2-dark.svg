@@ -1,0 +1,198 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="586" viewBox="0 0 1180 586">
+<defs>
+  <linearGradient id="asciiGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#38BDF8">
+      <animate attributeName="stop-color" values="#38BDF8;#22D3EE;#60A5FA;#38BDF8" dur="8s" repeatCount="indefinite"/>
+    </stop>
+    <stop offset="100%" stop-color="#22D3EE">
+      <animate attributeName="stop-color" values="#22D3EE;#60A5FA;#38BDF8;#22D3EE" dur="8s" repeatCount="indefinite"/>
+    </stop>
+  </linearGradient>
+  <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#22C55E"/>
+    <stop offset="50%" stop-color="#10B981"/>
+    <stop offset="100%" stop-color="#34D399"/>
+  </linearGradient>
+  <radialGradient id="bgGlow" cx="30%" cy="20%" r="80%">
+    <stop offset="0%" stop-color="#0B1120"/>
+    <stop offset="100%" stop-color="#050816"/>
+  </radialGradient>
+  <linearGradient id="scanGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" stop-color="#22C55E" stop-opacity="0"/>
+    <stop offset="45%" stop-color="#22C55E" stop-opacity="0.06"/>
+    <stop offset="50%" stop-color="#86EFAC" stop-opacity="0.55"/>
+    <stop offset="55%" stop-color="#22C55E" stop-opacity="0.06"/>
+    <stop offset="100%" stop-color="#10B981" stop-opacity="0"/>
+  </linearGradient>
+  <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="1" fill="#7DD3FC" opacity="0.05"/>
+  </pattern>
+  <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="4" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+  <mask id="revealMask" maskUnits="userSpaceOnUse" x="0" y="0" width="1180" height="620">
+    <rect x="0" y="0" width="1180" height="0" fill="#fff">
+      <animate attributeName="height" from="0" to="560" dur="2.6s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </rect>
+  </mask>
+  <clipPath id="lc0"><rect x="500" y="26.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="0.75s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc1"><rect x="500" y="50.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="0.86s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc2"><rect x="500" y="72.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="0.98s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc3"><rect x="500" y="94.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.09s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc4"><rect x="500" y="116.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.21s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc5"><rect x="500" y="138.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.32s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc6"><rect x="500" y="160.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.44s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc7"><rect x="500" y="182.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.55s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc8"><rect x="500" y="204.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.67s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc9"><rect x="500" y="226.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.78s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc10"><rect x="500" y="248.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.90s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc11"><rect x="500" y="270.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.02s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc12"><rect x="500" y="292.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.13s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc13"><rect x="500" y="314.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.25s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc14"><rect x="500" y="336.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.36s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc15"><rect x="500" y="358.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.48s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc16"><rect x="500" y="380.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.59s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc17"><rect x="500" y="402.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.71s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc18"><rect x="500" y="424.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.82s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc19"><rect x="500" y="446.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.94s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc20"><rect x="500" y="468.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="3.05s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc21"><rect x="500" y="490.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="3.17s" fill="freeze"/></rect></clipPath>
+  <style>
+    .ascii  { font-family: 'Courier New', Consolas, monospace; font-size: 7.4px; fill: url(#asciiGrad); letter-spacing: -0.2px; }
+    .key    { font-family: 'Courier New', Consolas, monospace; font-size: 15px; fill: #4ADE80; font-weight: bold; }
+    .value  { font-family: 'Courier New', Consolas, monospace; font-size: 15px; fill: #FFFFFF; font-weight: 500; }
+    .cc     { font-family: 'Courier New', Consolas, monospace; font-size: 15px; fill: #1E3A2F; }
+    .head   { font-family: 'Courier New', Consolas, monospace; font-size: 17px; fill: #22C55E; font-weight: bold; }
+    .accent { font-family: 'Courier New', Consolas, monospace; font-size: 15px; fill: #34D399; font-weight: bold; }
+    text, tspan { white-space: pre; }
+    .term-label { font-family: 'Courier New', Consolas, monospace; font-size: 12px; fill: #86EFAC; letter-spacing: 0.5px; opacity: 0.8; }
+    .scan-label { font-family: 'Courier New', Consolas, monospace; font-size: 10px; fill: #F87171; letter-spacing: 1px; }
+    .panel-title-blue { font-family: 'Courier New', Consolas, monospace; font-size: 11px; fill: #38BDF8; letter-spacing: 2px; opacity: 0.85; }
+    .panel-title { font-family: 'Courier New', Consolas, monospace; font-size: 11px; fill: #22C55E; letter-spacing: 2px; opacity: 0.85; }
+    .cursor-blink { fill: #22C55E; }
+  </style>
+</defs>
+
+<rect width="1180" height="586" rx="18" fill="url(#bgGlow)"/>
+<rect width="1180" height="586" rx="18" fill="url(#scanlines)"/>
+
+<g id="titlebar">
+  <rect x="3" y="3" width="1174" height="34" rx="16" fill="#0B1120" fill-opacity="0.85"/>
+  <circle cx="24" cy="20" r="5" fill="#EF4444"><animate attributeName="opacity" values="1;0.55;1" dur="4s" repeatCount="indefinite"/></circle>
+  <circle cx="42" cy="20" r="5" fill="#F59E0B"><animate attributeName="opacity" values="1;0.55;1" dur="4s" begin="0.3s" repeatCount="indefinite"/></circle>
+  <circle cx="60" cy="20" r="5" fill="#10B981"><animate attributeName="opacity" values="1;0.55;1" dur="4s" begin="0.6s" repeatCount="indefinite"/></circle>
+  <text x="590" y="25" text-anchor="middle" class="term-label">adesh@deshmukh ~ % ./profile.sh --live</text>
+  <circle cx="1070" cy="20" r="4" fill="#F87171">
+    <animate attributeName="opacity" values="1;0.15;1" dur="1.1s" repeatCount="indefinite"/>
+  </circle>
+  <text x="1080" y="24" class="scan-label">SCANNING</text>
+</g>
+
+<g transform="translate(0,44)">
+  <rect x="14" y="18" width="488" height="490" rx="14" fill="#0B1120" fill-opacity="0.35" stroke="url(#borderGrad)" stroke-width="1" opacity="0.35"/>
+  <rect x="508" y="8" width="655" height="518" rx="14" fill="#0B1120" fill-opacity="0.35" stroke="url(#borderGrad)" stroke-width="1" opacity="0.35"/>
+  <text x="30" y="14" class="panel-title-blue">VISUAL.MAP</text>
+  <text x="524" y="6" class="panel-title">SYSTEM.INFO</text>
+
+  <g mask="url(#revealMask)">
+  <text x="30" y="0" class="ascii">
+<tspan x="25" y="40.00" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">......................::::::::::::::::::::::: ::::::::::::. : .::                       </tspan>
+<tspan x="25" y="47.55" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">        ..............:::::::::::::::::::::::.:::-*smnse*=-:  ::..                      </tspan>
+<tspan x="25" y="55.10" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">            .......................::::.: :  -m#####@@@#@@#@@##s=   :  .:               </tspan>
+<tspan x="25" y="62.65" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">            ...       .............:::: :::s##@@########%#########m+:                   </tspan>
+<tspan x="25" y="70.20" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                         ..........: :::o@@@@@################@###@@@#%=                </tspan>
+<tspan x="25" y="77.75" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                         ..........:::e@@@@@@@@#########@@@@@@@@@@@@@@@@%-              </tspan>
+<tspan x="25" y="85.30" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                         .......::  =%@@@@@@@@######@#####@@@@@@@@@@@@@@@#=             </tspan>
+<tspan x="25" y="92.85" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                         .......:  s@@@@@@@@##ne*+++*eeeeeeoenm%%%##@@@@@#@n            </tspan>
+<tspan x="25" y="100.40" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                . +@@@@@#%ss*=-:             ::-=+oos@@@@@@@n           </tspan>
+<tspan x="25" y="107.95" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                         ....    .m@@@no*++==---::         .::::--+***e%@@@@@s :        </tspan>
+<tspan x="25" y="115.50" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                 :#@@%neo*+===--:            .:-==+***oe#@@@@@+         </tspan>
+<tspan x="25" y="123.05" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                 -@@#%mnse*==--:              :--=****osn#@@@*          </tspan>
+<tspan x="25" y="130.60" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                 -#@###mso+==-:::              ::-=**oen%%@@@+          </tspan>
+<tspan x="25" y="138.15" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                  m@@%mn*+snn%%%%%no=-:.-+::-+onnno***om#%###:          </tspan>
+<tspan x="25" y="145.70" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                  o@#%s*+oo*enmm%%nse**+*++oenmmmm%%%%se%##@*           </tspan>
+<tspan x="25" y="153.25" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                  +@@#*+*em%ms@%mm%mmso-:=sm%#%mnsmnssnos##%            </tspan>
+<tspan x="25" y="160.80" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                   %@%**+*o*o*oeooess*+: :oss%e%@@e%#mnoe@@+            </tspan>
+<tspan x="25" y="168.35" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                 --o@n+++=+*snnnsoo*+-=   *ee*eseesnnnsoo#%             </tspan>
+<tspan x="25" y="175.90" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                o#no#o++=-------:::----  :**++*eesseo***o#              </tspan>
+<tspan x="25" y="183.45" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                mm*s%o*+==-:.    :--::    -+*=---====+**om*e%+          </tspan>
+<tspan x="25" y="191.00" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                e*s#%no*+==---=+*=:  --:-===-*+--:--=+**omsnno          </tspan>
+<tspan x="25" y="198.55" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                =ossmmeeo*****oe*oe%#mooeenn***++==++*oon%ees=          </tspan>
+<tspan x="25" y="206.10" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                 o*osmnseoeeeeo+=+*snnmm%%%%n*+*****ooee%seeo           </tspan>
+<tspan x="25" y="213.65" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                 **oemnseeeee***o*enn%#m#%mno=++oooeeesmmo*e            </tspan>
+<tspan x="25" y="221.20" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                 :**smnsssee*osmnsssseoooensnne**oeessnmneo=            </tspan>
+<tspan x="25" y="228.75" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                     :nsnnseoonmso+-++ossssm##mneoesnnmmeo+             </tspan>
+<tspan x="25" y="236.30" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                      *nnmssse*+==+=--==-=+++*snsennmmm                 </tspan>
+<tspan x="25" y="243.85" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                       snnmnseo++*osnnmnnseo**+esnmnmm*                 </tspan>
+<tspan x="25" y="251.40" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                        nmmneeo*****oeeeseoo*oesnm%%m=                  </tspan>
+<tspan x="25" y="258.95" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                        =%mnseo*+=====-:-==+*oennmm%-                   </tspan>
+<tspan x="25" y="266.50" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                        *en%%mnseeeooooooeeeesnm%%%s%o                  </tspan>
+<tspan x="25" y="274.05" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                      *mnoes%##%%mm%%%%%%%%%%#%##%nm%se:                </tspan>
+<tspan x="25" y="281.60" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                     on%m**enm%#################%mn%some                </tspan>
+<tspan x="25" y="289.15" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                    one%%**oesnnm%###@@#@@@###%%mnnnosmo+:              </tspan>
+<tspan x="25" y="296.70" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                  --+*oe#***oeesnmmnmm%%%%%%%%mnsemnoso*os              </tspan>
+<tspan x="25" y="304.25" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                           -**+++*n*e++n#e*+ooeeeesnnnnnmmmmmnseoeeoe%no*oon*==--       </tspan>
+<tspan x="25" y="311.80" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                         +s*oe=o*==ne==-eno*ooooeesnmm%%%mmnseo*sno**++*seonnnsm###m    </tspan>
+<tspan x="25" y="319.35" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                         *=*=+*m*=nno+=-s%nseeeeeeeesnnnnnneoos##noomms*#o*enmnnn%@#%e= </tspan>
+<tspan x="25" y="326.90" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                      nmns+n++n**o--o*+*mmmmnsssssssssssnssssn%%mn+ne==*#*ennmnmmm%#nnns</tspan>
+<tspan x="25" y="334.45" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                   +em%mnne-+-=:s=--+*e**e#m%%nsnm%%%%%%mnnnmmm%n++-==*nn*enn%nnmm%@msnn</tspan>
+<tspan x="25" y="342.00" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">            =oeeeeesnmmnnnn=ee-+: ----o*=*##%%%%#%mmmmnnsssnnnm%+-nms+oen=enn%msnmm#@see</tspan>
+<tspan x="25" y="349.55" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">        :*sessssnseees%nnnnee::-:.o+--se*mn@#%##%m%mmseeeee%%mm=-o=-=o*mo*nsnmmssmm%@neo</tspan>
+<tspan x="25" y="357.10" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">     +ssssseeeeeeeeeeensnssns-+o-:es**=-=nsn#@@#%%%#m+++++on%e-==--++%neooessnmeesmm%nee</tspan>
+<tspan x="25" y="364.65" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">   +esseeesseeeeeeeeeonsssssme*s==+:-=-::+*nsn%##@#%m++++*enns*-seo+e=*s=osssnnooessssso</tspan>
+<tspan x="25" y="372.20" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> *esnssssmnesseeeeeeoomsseesn+s::+:  *-: ==snsesnm##%mnno*s@o-.e+:=*=*e=ensssnneseoeeese</tspan>
+<tspan x="25" y="379.75" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">onnssnssssenesseeoooooneeeeeoo%o=so::*=:--:e:=sseesn%%m%%%#n: : -=o%so**ossssssoeseooone</tspan>
+<tspan x="25" y="387.30" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">snnm%sssseeeneseeoeeooseeeeseoeo*s=::   oe++*on#nssesens%@n: *seo=*=+=+=essssnsooeseoone</tspan>
+<tspan x="25" y="394.85" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">ssnnn#mssseesneeeese*oeseeee+:o=oeo+*s=:s+*s%mm@%%nneeen%o. *s==+o++=*m%nesssseooeseo*ns</tspan>
+<tspan x="25" y="402.40" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">eesnssm%eeeeenessnseoooeoooe-*s-=o+nose++*esm#nnenom%*+*--:=-==+n%*=os+msesssseoooeeooem</tspan>
+<tspan x="25" y="409.95" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">eeesnssm%eseesessseooo*oooen+es-=n=s#ss*ome++e**oo++* =e=:*++++ne++==+nnseeeeeooooeeeoes</tspan>
+<tspan x="25" y="417.50" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">mmnseeomn%ssesesssoooo*oesss. :=++es:e%esos%*-=oo=  : :=+s%mso*+++omnmmseeeoooooooeeeoon</tspan>
+<tspan x="25" y="425.05" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">ssm%nnmenm%nnnesseoo***eeeeo-=e-+=+#s-n%#%moe+  - +o-+*enooes#se*emm#msseo*ooo*ooooeeoos</tspan>
+<tspan x="25" y="432.60" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">eesn%ns%nnm#nneseoo****esse=+ss=-*mnsnn=:*ee*o*+e%%mmsnsons%#mnmm%#%msseoo*ooooeeeoeeeoe</tspan>
+<tspan x="25" y="440.15" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">eeeesmnn#%n%#noooo**o*oeses=---=onmso%#@m%%###%m%mm%###%m%%%#@@#mnnnseo***ooooeeeeooeeoo</tspan>
+<tspan x="25" y="447.70" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">eeeesn%s%#mn#%eo*ooooeeeese:::*====++*ssnn%#%%%##%##%%#@@@@@##%mnssseoo****ooesseeeoeeoo</tspan>
+<tspan x="25" y="455.25" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">eeeeesn%n%#%m%nm%%mmmnneeso::*s==-*s+==meee#@@@@@@@@@@@##%mnnnmseeeeo******oeeeessseeooo</tspan>
+<tspan x="25" y="462.80" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">eeessssnmn#@#%nsnm%%%%%nss*-snm=-*ms==mn=+m#@#######%m%nnmmnsseeeeoo**oooooeeeeeeseooeoo</tspan>
+<tspan x="25" y="470.35" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">eeeesssnmm%@@#nsssnnmmmsno=-++=+neoeoeo+-**o%mnmnnnnnnmnmesnesseoo***oooooeeeeeeeeo**ooo</tspan>
+<tspan x="25" y="477.90" textLength="455" lengthAdjust="spacingAndGlyphs" xml:space="preserve">nsssssssnmm#@@mnssssnm%%n-+==-m====o=*=**-:*mmnnnnnnnm%mmnnmnnesseoooeeeeeeeeeeeeeeooooo</tspan>
+  </text>
+  </g>
+
+  <g clip-path="url(#lc0)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="42" class="head">adesh@deshmukh</tspan><tspan class="cc"> -——————————————————————————————————————————-—-</tspan></text></g>
+  <g clip-path="url(#lc1)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="66" class="cc">. </tspan><tspan class="key">Subject</tspan><tspan class="cc">: ................ </tspan><tspan class="value">Adesh Deshmukh</tspan></text></g>
+  <g clip-path="url(#lc2)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="88" class="cc">. </tspan><tspan class="key">Role</tspan><tspan class="cc">: ................... </tspan><tspan class="value">Backend Dev · Open Source Contributor</tspan></text></g>
+  <g clip-path="url(#lc3)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="110" class="cc">. </tspan></text></g>
+  <g clip-path="url(#lc4)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="132" class="cc">. </tspan><tspan class="key">Focus</tspan><tspan class="cc">: ................. </tspan><tspan class="value">Kubernetes · Cloud Native · Observability</tspan></text></g>
+  <g clip-path="url(#lc5)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="154" class="cc">. </tspan><tspan class="key">Status</tspan><tspan class="cc">: ................. </tspan><tspan class="value">Building · Learning · Contributing to CNCF</tspan></text></g>
+  <g clip-path="url(#lc6)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="176" class="cc">. </tspan><tspan class="key">Merged PRs</tspan><tspan class="cc">: ............. </tspan><tspan class="value">58+ PRs across 12 Cloud-Native Repos</tspan></text></g>
+  <g clip-path="url(#lc7)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="198" class="cc">. ......................... </tspan><tspan class="value">Kubespray, Harbor, Kitops, Kruise</tspan></text></g>
+  <g clip-path="url(#lc8)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="220" class="cc">. </tspan><tspan class="key">Core</tspan><tspan class="cc">.</tspan><tspan class="key">Lang</tspan><tspan class="cc">: .............. </tspan><tspan class="value">Go, Python, TypeScript, JavaScript</tspan></text></g>
+  <g clip-path="url(#lc9)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="242" class="cc">. </tspan><tspan class="key">Core</tspan><tspan class="cc">.</tspan><tspan class="key">Infra</tspan><tspan class="cc">: ............. </tspan><tspan class="value">Kubernetes, Docker, Helm, Prometheus</tspan></text></g>
+  <g clip-path="url(#lc10)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="264" class="cc">. </tspan><tspan class="key">Core</tspan><tspan class="cc">.</tspan><tspan class="key">Tools</tspan><tspan class="cc">: ............. </tspan><tspan class="value">Grafana, Git, GitHub Actions, Linux</tspan></text></g>
+  <g clip-path="url(#lc11)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="286" class="cc">. </tspan></text></g>
+  <g clip-path="url(#lc12)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="308" class="accent">- Contact</tspan><tspan class="cc"> -————————————————————————————————————————————-—-</tspan></text></g>
+  <g clip-path="url(#lc13)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="330" class="cc">. </tspan></text></g>
+  <g clip-path="url(#lc14)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="352" class="cc">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="cc">: ............... </tspan><tspan class="value">linkedin.com/in/adeshdeshmukh</tspan></text></g>
+  <g clip-path="url(#lc15)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="374" class="cc">. </tspan><tspan class="key">X (Twitter)</tspan><tspan class="cc">: ............. </tspan><tspan class="value">x.com/AdeshDeshmukh</tspan></text></g>
+  <g clip-path="url(#lc16)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="396" class="cc">. </tspan><tspan class="key">GitHub</tspan><tspan class="cc">: ................. </tspan><tspan class="value">github.com/AdeshDeshmukh</tspan></text></g>
+  <g clip-path="url(#lc17)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="418" class="cc">. </tspan></text></g>
+  <g clip-path="url(#lc18)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="440" class="accent">- Live Stats</tspan><tspan class="cc"> -————————————————————————————————————————————-—-</tspan></text></g>
+  <g clip-path="url(#lc19)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="462" class="cc">. </tspan><tspan class="value">See live GitHub stats badges below in README ↓</tspan></text></g>
+
+  <rect x="522" y="473.0" width="9" height="16" class="cursor-blink" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;0;1;0;1;0" keyTimes="0;0.01;0.02;0.3;0.5;0.7;0.85;1" dur="1.4s" begin="3.66s" repeatCount="indefinite"/>
+  </rect>
+</g>
+
+<rect x="0" y="-70" width="1180" height="70" fill="url(#scanGrad)" opacity="0.7" style="mix-blend-mode:screen">
+  <animateTransform attributeName="transform" type="translate" from="0 -70" to="0 630" dur="4.2s" repeatCount="indefinite"/>
+</rect>
+
+<rect x="3" y="3" width="1174" height="580" rx="16" fill="none" stroke="url(#borderGrad)" stroke-width="2" opacity="0.8">
+  <animate attributeName="opacity" values="0.5;0.95;0.5" dur="3.2s" repeatCount="indefinite"/>
+</rect>
+</svg>
