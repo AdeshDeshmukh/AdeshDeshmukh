@@ -3,9 +3,9 @@
 <!-- Interactive Terminal Profile Banner -->
 <a href="https://github.com/AdeshDeshmukh">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-banner-v2-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="profile-banner-v2-light.svg">
-    <img alt="Adesh Deshmukh Terminal Profile" src="profile-banner-v2-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="profile-banner-v3-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile-banner-v3-light.svg">
+    <img alt="Adesh Deshmukh Terminal Profile" src="profile-banner-v3-dark.svg" width="100%">
   </picture>
 </a>
 <br><br>
