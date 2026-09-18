@@ -3,9 +3,9 @@
 <!-- Interactive Terminal Profile Banner -->
 <a href="https://github.com/AdeshDeshmukh">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-banner-v9-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="profile-banner-v9-light.svg">
-    <img alt="Adesh Deshmukh Terminal Profile" src="profile-banner-v9-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="profile-banner-v10-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile-banner-v10-light.svg">
+    <img alt="Adesh Deshmukh Terminal Profile" src="profile-banner-v10-dark.svg" width="100%">
   </picture>
 </a>
 <br><br>
@@ -62,11 +62,14 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/adeshdeshmukh" target="_blank">
+<a href="https://www.linkedin.com/in/adesh-deshmukh/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://twitter.com/AdeshDeshmukh" target="_blank">
+<a href="https://x.com/AdeshXpro" target="_blank">
   <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
+<a href="https://bsky.app/profile/adeshdeshmukh.bsky.social" target="_blank">
+  <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" />
 </a>
 <a href="https://github.com/AdeshDeshmukh" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
