@@ -36,7 +36,7 @@
 | **`c2siorg/Webiu`** | Core engine infrastructure & web integrations | [![8 PRs](https://img.shields.io/badge/Patch%20Record-8%20Merged-2491EB?style=flat-square&logo=github)](https://github.com/c2siorg/Webiu/pulls?q=is%3Apr+author%3AAdeshDeshmukh+is%3Amerged) |
 
 <p align="center">
-  <code>[TOTAL METRICS] 58 Merged PRs + 32 Closed Issues across 12 Repositories</code>
+  <code>[TOTAL METRICS] 103+ Merged PRs + 32 Closed Issues across 12 Repositories</code>
 </p>
 
 ---
